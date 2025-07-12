@@ -1,0 +1,14 @@
+[project]
+name = "lightsail-python-files"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "couchdb>=1.2",
+    "dotenv>=0.9.9",
+    "paho-mqtt>=2.1.0",
+    "requests>=2.32.4",
+    "twilio>=9.6.4",
+    "tzdata>=2025.2",
+]
